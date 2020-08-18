@@ -1,2 +1,4 @@
 feature_extractor
-*.pyc
+*.pyc\
+.idea
+__pycache__
